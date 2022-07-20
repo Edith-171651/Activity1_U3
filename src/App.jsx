@@ -13,6 +13,20 @@ function App() {
       <Navbar/>
       <div>
         <div>
+          <div>
+            <h1>Edith Ruiz Hernandez</h1>
+            <p>{t("Descripcion")}</p>
+            <button>
+            {t("Accion")}
+
+            </button>
+            <h3>
+            {t("Contador")}
+            </h3>
+          </div>
+          <div>
+            <img src="IMG_7313.png" alt="" className='Perfil' />
+          </div>
           
         </div>
         <div> 

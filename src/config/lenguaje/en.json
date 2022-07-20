@@ -1,6 +1,7 @@
 {
     "Tecnologias": "Technologies that I use",
-    "description": "Engineering student, employee within the company Capgemini. I like to learn new things, listen to music, play videogames, go to the movies and go out with my girlfriend or my friends to the movies, to eat or go to pool. When I finish engineering I would like to have learned more about programming, especially if it can be oriented towards video game development, and I would also like to have a good job abroad.",
-    "action": "Count Visit",
-    "counter": "Visit Counter"
+    "Descripcion": "EEngineering student, I like to go out with my family, take care of my baby, listen to music, go to the movies with my husband, learn new things, I like to read, motivate my daughter to learn new things and play with her.",
+    "Accion": "Count Visit",
+    "Contador": "Visit Counter"
+
 }

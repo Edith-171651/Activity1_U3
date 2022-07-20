@@ -7,3 +7,16 @@ nav {
   justify-content: space-evenly;
   align-items: center;
 }
+
+.Perfil {
+  border-radius: 20%;
+
+}
+h1 {
+    font-family: "Rufina", serif;
+    color: #000a2d;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: normal;
+}
